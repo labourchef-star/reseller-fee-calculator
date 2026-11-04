@@ -1,2 +1,3 @@
 {"at":"2026-11-04T13:02:20+13:00","step":"preflight build_start exit 0; build started (t212u)"}
 {"at":"2026-11-04T13:02:20+13:00","step":"fee engine + app + 12 tests passing; fees verified from official pages 2026-11-04"}
+{"at":"2026-11-04T13:05:38+13:00","step":"LIVE https://reseller-fee-calculator.onrender.com verified: 9 pages 200, calc correct ($100 sale: Depop 3.75, Mercari 10.00, Whatnot 11.20, eBay 14.00, Poshmark 20.00), alerts stored, metrics 401 no-token/200 with token, test hits tagged test=1","service":"srv-dbl7c761egvs73e0gnrg","deploy_id":"dep-dbl7c7m1egvs73e0gp10","commit":"2eb4926"}
